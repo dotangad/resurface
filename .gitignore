@@ -1,3 +1,5 @@
 .env
 .DS_Store
 tags
+config.py
+__pycache__
